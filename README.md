@@ -1,4 +1,4 @@
 #Git Demo
 ##CDSE
 
-github is a version control platform
+github is a version control platform.
